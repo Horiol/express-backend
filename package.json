@@ -1,0 +1,15 @@
+{
+    "name": "express-backend",
+    "description": "",
+    "version": "1.0.0",
+    "scripts": {
+        "serve": "node app.js"
+    },
+    "engines": {
+        "node": "10.3.0"
+    },
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
+  
